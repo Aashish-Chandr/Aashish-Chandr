@@ -323,13 +323,19 @@ LLM Engineering & Prompting  █████████████████
 
 <div align="center">
 
-<!-- LIVE SNAKE ANIMATION — auto-updated by GitHub Actions workflow -->
-<!-- Add .github/workflows/snake.yml to generate this automatically -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aashish-Chandr/Aashish-Chandr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashish-Chandr/Aashish-Chandr/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Aashish-Chandr/Aashish-Chandr/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<!-- LIVE CONTRIBUTION GRAPH — zero setup, regenerates automatically -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashish-Chandr&bg_color=0d1117&color=38bdf8&line=6366f1&point=f59e0b&area=true&hide_border=true&area_color=1e293b&custom_title=Aashish%27s%20Contribution%20Graph&radius=6" width="100%" />
+
+<br/>
+
+<!-- LIVE METRICS CARD — shows commits, PRs, issues, reviews -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aashish-Chandr&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aashish-Chandr&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aashish-Chandr&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aashish-Chandr&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
