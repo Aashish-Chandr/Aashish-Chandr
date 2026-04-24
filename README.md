@@ -9,9 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,70:16213e,100:0f3460&height=250&section=header&text=Aashish%20Chandra&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20DevOps%20Architect%20%E2%80%A2%20Computer%20Vision%20Builder&descSize=17&descColor=94a3b8&descAlignY=58&animation=fadeIn" width="100%" />
 
 <!-- ── LIVE TYPING ANIMATION ───────────────────────────────────────────── -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🧠+Building+Self-Healing+AI+Systems;☸️+Architecting+Production+Kubernetes+Platforms;👁️+Crafting+Computer+Vision+Solutions;🤖+Automating+Infrastructure+with+LLMs;🚀+Turning+Ideas+into+Production+Reality" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Building+Self-Healing+AI+Systems...;Architecting+Production+K8s+Platforms...;Crafting+Computer+Vision+Solutions...;Automating+Infrastructure+with+LLMs...;Turning+Bold+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -24,9 +22,9 @@
 <br/>
 
 <!-- ── OPEN TO WORK ─────────────────────────────────────────────────────── -->
-<img src="https://img.shields.io/badge/🎓_RGIPT-Undergraduate-f59e0b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📍_Raebareli,_Uttar_Pradesh-India-10b981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Open_To-Internships_%26_Collabs-ef4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RGIPT-Undergraduate-f59e0b?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/Raebareli%2C_UP-India_%F0%9F%87%AE%F0%9F%87%B3-10b981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_To-Internships_%26_Collabs-ef4444?style=for-the-badge" />
 
 </div>
 
